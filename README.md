@@ -1,1 +1,1 @@
-Game on python
+Arcanoid on Python with Pygame
